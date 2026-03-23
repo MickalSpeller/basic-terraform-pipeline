@@ -1,4 +1,2 @@
-terraform.tfstate.backup
-**/*.tfstate.backup
 terraform/.terraform/
 __pycache__/
