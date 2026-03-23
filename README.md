@@ -18,7 +18,7 @@ Here are the key skills demonstrated:
 
 - Provisions Azure infrastructure using Terraform IaC
 - Azure App Service Deployment
-- Basic Python App (FLask) deployment
+- Basic Python App (Flask) deployment
 - CI/CD automated via GitHub Actions
 - No manual Azure portal steps.
 - Securing Azure Credentials
